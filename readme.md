@@ -1,2 +1,3 @@
-Membuat Bar Navigasi seperti w3school
-Source Code murni hasil sendiri berdasarkan yang telah saya pelajari
+Membuat Bar Navigasi seperti w3school,
+
+Source Code berdasarkan yang telah dipelajari.
